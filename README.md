@@ -1,3 +1,5 @@
+Tao Wang Twang0357@gmail.com
+
 # CISC 3160 Multimedia Programming
 
 #Projects
