@@ -4,5 +4,5 @@ projects:
 [cartoon picture](projects/cartoon/index.html)
 
 labs:
-[JSON](labs/jsonLab/json.html)
+[JSON](labs/json/json.html)
 
