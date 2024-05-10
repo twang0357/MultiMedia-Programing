@@ -24,7 +24,7 @@ function convertWeight(value, planet) {
 }
 
 form.addEventListener('input', () => {
-    const inputWeight = parseFloat(inputWeightField.value);
+    const inputWeight = inputWeightField.value;
     const inputPlanet = planetField.value;
 
     outputWeight.value = Math.round(convertWeight(inputWeight,inputPlanet))*100 /100 + " lbs";
