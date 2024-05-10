@@ -1,0 +1,13 @@
+
+body{
+    text-align:center;
+    height: 100%;
+}
+.bg{
+    background-image: url("https://static.scientificamerican.com/sciam/cache/file/C40228B7-E0D4-4379-A31A261292E6F2D6_source.jpg?w=600");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
