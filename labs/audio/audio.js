@@ -1,25 +1,25 @@
-const bird = document.getElementById("birdSound");
-const dog = document.getElementById("dogSound");
-const cat = document.getElementById("catSound");
-const horse = document.getElementById("horseSound");
-const snake = document.getElementById("snakeSound");
+const bird1 = document.getElementById("birdSound");
+const dog1 = document.getElementById("dogSound");
+const cat1 = document.getElementById("catSound");
+const horse1 = document.getElementById("horseSound");
+const snake1 = document.getElementById("snakeSound");
 
 function birdSound() {
-    bird.play();
+    bird1.play();
 }
 
 function dogSound() {
-    dog.play();
+    dog1.play();
 }
 
 function catSound() {
-    cat.play();
+    cat1.play();
 }
 
 function horseSound() {
-    horse.play();
+    horse1.play();
 }
 
 function snakeSound() {
-    snake.play();
+    snake1.play();
 }
