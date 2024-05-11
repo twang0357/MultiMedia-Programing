@@ -1,0 +1,13 @@
+[class*="col"]{
+    padding: 1rem;
+    background-color: rgb(38, 167, 167);
+    border: 10px solid #123f69;
+    color: #fff;
+}
+
+[class*="con"]{
+    padding: 3rem;
+    background-color: rgb(238, 239, 243);
+    border: 1px solid black;
+    text-align: left;
+}
