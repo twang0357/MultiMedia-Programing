@@ -9,4 +9,4 @@ projects:
 labs:
 - [JSON](labs/json/json.html)
 - [audio](labs/audio/audio.html)
-
+- [resume](labs/resume/resume.html)
