@@ -1,0 +1,20 @@
+
+.bg{
+    background-color: #90E4C1;
+}
+.name {
+    text-align: center;
+}
+.address{
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+}
+.points{
+    font-size:x-large;
+    text-decoration: underline;    
+}
+.summary{
+    font-size:smaller;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
