@@ -11,3 +11,4 @@ labs:
 - [audio](labs/audio/index.html)
 - [resume](labs/resume/index.html)
 - [bootstrap](labs/bootstrap/index.html)
+- [PWA](projects/PWA/index.html)
