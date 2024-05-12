@@ -2,12 +2,12 @@ Tao Wang Twang0357@gmail.com
 
 projects:
 - [cartoon picture](projects/cartoon/index.html)
-- [Animation](projects/Animation/animation.html)
-- [form](projects/Form/form.html)
-- [DataVisualization](projects/DataVisualization/DataVisualization.html)
+- [Animation](projects/Animation/index.html)
+- [form](projects/Form/index.html)
+- [DataVisualization](projects/DataVisualization/index.html)
  
 labs:
-- [JSON](labs/json/json.html)
-- [audio](labs/audio/audio.html)
-- [resume](labs/resume/resume.html)
-- [bootstrap](labs/bootstrap/bootstrap.html)
+- [JSON](labs/json/index.html)
+- [audio](labs/audio/index.html)
+- [resume](labs/resume/index.html)
+- [bootstrap](labs/bootstrap/index.html)
