@@ -1,0 +1,13 @@
+{
+    "short_name": "PWA",
+    "name": "Form Progressive Web Application",
+    "icons": [{
+        "src": "earth.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "start_url": "",
+    "background_color": "#1212a1",
+    "display": "standalone",
+    "theme_color": "#1182af"
+  }
