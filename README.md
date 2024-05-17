@@ -4,7 +4,7 @@ projects:
 - [cartoon picture](projects/cartoon/index.html)
 - [Animation](projects/Animation/index.html)
 - [form](projects/Form/index.html)
-- [VideoAnimation](projects/VideoAnimation/Video.html) [test](projects/VideoAnimation/VideoAnimation.html) [wickFile](projects/VideoAnimation/VideoAnimation5-17-2024_15-41-49.wick)
+- [VideoAnimation](projects/VideoAnimation/VideoAnimation.html) -[VideoAnimationMP4](projects/VideoAnimation/Video.html) -[wickFile](projects/VideoAnimation/VideoAnimation5-17-2024_16-35-28.wick)
 - [DataVisualization](projects/DataVisualization/index.html)
 - [WickEditor](projects/WickEditor/WickEditor.html)
  
