@@ -5,6 +5,7 @@ projects:
 - [Animation](projects/Animation/index.html)
 - [form](projects/Form/index.html)
 - [DataVisualization](projects/DataVisualization/index.html)
+- [WickEditor](projects/WickEditor/WickEditor.html)
  
 labs:
 - [JSON](labs/json/index.html)
